@@ -22,4 +22,3 @@ for (i = 1; i < Number(userNumber); i++ ) {
 }
 
 console.log("cubo dei primi N numeri, dove N è un numero indicato dall'utente.", numbersCubeElevationList);
-// calcolo il cubo di ogni numero minore di quello fornito dall'utente
